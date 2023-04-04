@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MBULLECLODIAETAMBONG
-- 👀 I’m a Software Developer and Graphic Designer 
+- 👀 I’m a Software Developer, Content Creator and Graphic Designer 
 - 🌱 I’m currently working on video editing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
