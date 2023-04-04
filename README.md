@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MBULLECLODIAETAMBONG
-- 👀 I’m interested in Software Development and Graphics 
-- 🌱 I’m currently learning Software Development and graphic designs
+- 👀 I’m a Software Developer and Graphic Designer 
+- 🌱 I’m currently working on video editing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
